@@ -13,7 +13,7 @@
     "url": "https://github.com/gimox/json-routing/issues"
   },
   "dependencies": {
-    "underscore": "*"
+    "lodash": "*"
   },
   "devDependencies": {
     "express": "*",
